@@ -27,14 +27,17 @@ class classification:
         self.classifier = MultinomialNB()
 
         self.classifier.fit(X_train, y_train)
+        # print(len(y_test))
+        # print((y_test == self.classifier.predict(X_test)).sum())
 
     def predict(self, string):
         string = [string]
-        string = pd.DataFrame(string)
-        string = string.reindex(labels = self.data.columns, axis=1)
-        features = self.vectorizer.fit_transform(string)
+        # string = pd.DataFrame(string)
+        # string = string.reindex(labels = self.data.columns, axis=1)
+        # features = self.vectorizer.fit_transform(string)
+        features = self.vectorizer.transform(string)
         prediction = self.classifier.predict(features)
         return "Spam" if prediction == 1 else "Legitimate"
 
-c1 = classification()
-print(c1.predict("hello friend"))
+# c1 = classification()
+# print(c1.predict("hello friend"))
