@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request
 import prediction
 
-app = Flask(__name__)
 predict = prediction.classification()
+app = Flask(__name__)
 
 @app.route("/")
 def main_page():
