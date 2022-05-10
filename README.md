@@ -35,7 +35,7 @@ The message to be Fed into the model for prediction must first be preprocessed u
 
 #### Message
 
-![alt text](images\frontEnd.PNG)
+![alt text](images\frontEnd.png)
 
 #### Results
 
