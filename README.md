@@ -7,17 +7,17 @@ The message to be Fed into the model for prediction must first be preprocessed u
 
 ### Message to Be Analysed
 
-![alt text](images\message.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/message.PNG?raw=true)
 
 ### Preprocess The Data to be analysed
 
-![alt text](images\make_prediction.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/preprocess.PNG?raw=true)
 
 ### Make Prediction on the message
-![alt text](images\make_prediction.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/make_prediction.PNG?raw=true)
 
 ### Prediction in Jupyter Notebook
-![alt text](images\prediction.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/prediction.PNG?raw=true)
 
 ## Front End of the Classifier
 
@@ -25,11 +25,11 @@ The message to be Fed into the model for prediction must first be preprocessed u
 
 #### Message
 
-![alt text](images\spamFrontEnd.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/spamFrontEnd.PNG?raw=true)
 
 #### Results
 
-![alt text](images\spamResults.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/spamResults.PNG?raw=true)
 
 ### Legit Message
 
@@ -39,4 +39,4 @@ The message to be Fed into the model for prediction must first be preprocessed u
 
 #### Results
 
-![alt text](images\hamResults.PNG)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/hamResults.PNG?raw=true)
