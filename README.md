@@ -35,7 +35,7 @@ The message to be Fed into the model for prediction must first be preprocessed u
 
 #### Message
 
-![alt text](images\frontEnd.png)
+![alt text](https://github.com/piyushjasaiwal/Spam-Mail-CLassifier-With-User-Interface/blob/master/images/frontEnd.PNG?raw=true)
 
 #### Results
 
